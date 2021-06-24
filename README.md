@@ -1,7 +1,14 @@
-# Hey, I'm Antonio
-* ## Who am I?
-   * Hi, My name is Antonio Pacheco, I'm 15 years old and I'm from Brazil. Now a days, I'm a begginer at programming, but I'll be a good programmer in future.
-- 👀 I’m interested in find new people and create my own projects with help, and help someone with his or her project
-- 🌱 Now a days, I'm learning game creation with python and create websites with HTML, CSS, and javascript
-- 💞️ I’m looking to collaborate on anything that need help
-- 📫 Talk to me in my gmail: antoninhopgr@gmail.com or in my instagram: @antoniopachecog.ribeiro
+# Hey, I'm Antonio 👋
+* ## Who am I? 🤓
+   * Hi, My name is Antonio Pacheco.
+   * I'm 15 years old.
+   * I'm brazilian. 
+   * Now a days, I'm a begginer at programming, but I'll be a good programmer in future. 
+* ## Why am I on GitHub? :octocat:
+   * I’m interested to kwow new friends, create my own projects or create a project with someone, help someone with his or her project
+   * I'm here to learn new things and show my code for the word too
+* ## Want to talk with me? 📱
+  if you want to talk eith me, you can send a message in any link bellow:
+  * antoninhopgr@gmail.com
+  * [Github](https://www.github.com/AntonioPGR)
+  * [Intragram](https://www.instagram.com/antoniopachecog.ribeiro/)
