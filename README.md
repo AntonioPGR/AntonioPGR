@@ -10,5 +10,5 @@
 * ## Want to talk with me? 📱
   if you want to talk eith me, you can send a message in any link bellow:
   * antoninhopgr@gmail.com
-  * [Github](https://www.github.com/AntonioPGR)
   * [Intragram](https://www.instagram.com/antoniopachecog.ribeiro/)
+  * WhatsApp +55 35 992202021
