@@ -1,6 +1,6 @@
 [![Hi There, I'm Antonio Pacheco. I'm an software developer and computer engineering student. Click here in the image to acess my linktree](https://github.com/AntonioPGR/AntonioPGR/assets/86210494/80ba25e2-680b-4fd1-97cc-714b9ef2fdb1)](https://linktr.ee/antoniopgr)
 
-## So I'am a/an
+## So I'am a...
 - 🧑‍💻 Software developer student since 2020
 - 🇧🇷 Computer Engineering student at IF sul de minas (2024 to 2028)
 - 💼 Searching for a job in IT area
