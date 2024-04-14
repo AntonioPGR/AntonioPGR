@@ -12,8 +12,10 @@ My 2024 year's resolution is to migrate my knowlodgement area to back-end, so, c
     ![Microsservices](https://github.com/AntonioPGR/AntonioPGR/assets/86210494/fa8ea9ef-c4d3-4ee0-aa33-462a4c439a37)
   - ~~Start learning how to use linux~~ <br>
     ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-  - Learning about docker <br>
+  - ~~Learning about docker~~ <br>
     ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+  - ~~Learning about NGINX~~ <br>
+    ![NGINX](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)  
 
 ## My life goals are...
 - [x] 🖥️ Buying a computer
