@@ -25,7 +25,7 @@ My 2024 year's resolution is to migrate my knowlodgement area to back-end, so, c
 - [ ] ⛰️ Bungee Jumping
 
 ## You can reach me
-By going to my [linktree](mailto:antoninhopgr@gmail.com), there you'll have access to all my social media links
+By going to my [linktree](https://linktr.ee/AntonioPGR), there you'll have access to all my social media links
 
 ## Main Skills:
 ### Frontend
