@@ -15,7 +15,8 @@ My 2024 year's resolution is to migrate my knowlodgement area to back-end, so, c
   - ~~Learning about docker~~ <br>
     ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
   - ~~Learning about NGINX~~ <br>
-    ![NGINX](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)  
+    ![NGINX](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+  - Developing my own project named [Wellness360](https://github.com/AntonioPGR/Wellness360)
 
 ## My life goals are...
 - [x] 🖥️ Buying a computer
